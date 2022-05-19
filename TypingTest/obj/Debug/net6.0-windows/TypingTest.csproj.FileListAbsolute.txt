@@ -1,0 +1,17 @@
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\bin\Debug\net6.0-windows\TypingTest.exe
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\bin\Debug\net6.0-windows\TypingTest.deps.json
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\bin\Debug\net6.0-windows\TypingTest.runtimeconfig.json
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\bin\Debug\net6.0-windows\TypingTest.dll
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\bin\Debug\net6.0-windows\TypingTest.pdb
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.csproj.AssemblyReference.cache
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.Form1.resources
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.csproj.GenerateResource.cache
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.AssemblyInfoInputs.cache
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.AssemblyInfo.cs
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.csproj.CoreCompileInputs.cache
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.dll
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\refint\TypingTest.dll
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.pdb
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\TypingTest.genruntimeconfig.cache
+W:\ProgramlamaProjeleri\CSharp Projeler\C#\TypingTest\TypingTest\TypingTest\obj\Debug\net6.0-windows\ref\TypingTest.dll
